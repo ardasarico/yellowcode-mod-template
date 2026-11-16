@@ -1,0 +1,13 @@
+{
+  "name": "yellowcode-mod-hello",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.4",
+    "@yellowcode/mod": "^0.5.3",
+    "typescript": "^7.0.2"
+  }
+}
